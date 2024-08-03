@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Dative16
 - 👀 I’m interested in Computer programming with python and web development.
-- 🌱 I’m currently learning python programing language .
-- 💞️ I’m looking to collaborate on python project in builing software and mobile application.
+- 🌱 I’m currently free lancer and I using Django, Flet, Kivy/KivyMD, sklearn and pytorch projects.
+- 💞️ I’m looking to collaborate on python project in builing software and mobile application or websites.
 - 📫 How to reach me , I am Currently Studing at Mbeya University of Science and Technology, at Mbeya city in Tanzania.
 
 <!---
