@@ -51,8 +51,8 @@ I'm a passionate developer with expertise in **Django, Flask, AI/ML, Image Proce
 ---
 
 ## 📫 Let's Connect!
-- **GitHub**: [github.com/yourusername](https://github.com/Dative16)
-- **LinkedIn**: [linkedin.com/in/yourprofile](https://linkedin.com/in/datius-daud-69b406307)
+- **GitHub**: [github.com/Dative16](https://github.com/Dative16)
+- **LinkedIn**: [linkedin.com/in/datius](https://linkedin.com/in/datius-daud-69b406307)
 - **Website (Coming Soon)**: dative.co.tz
 
 💬 Feel free to reach out if you're interested in **collaborations, mentorship, or innovative tech discussions!**
