@@ -109,6 +109,6 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-Dative16-181717?style=for-the-badge&logo=github)](https://github.com/Dative16)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Datius_Daud-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/datius-daud-69b406307)
-[![Website](https://img.shields.io/badge/Website-Coming%20Soon-blue?style=for-the-badge&logo=google-chrome&logoColor=white)]([https://dative.co.tz](https://dative16.github.io/dative_port/))
+[![Website](https://img.shields.io/badge/Website-Coming%20Soon-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://dative16.github.io/dative_port/)
 
 > 💬 Feel free to reach out for **collaborations, mentorship**, or **tech innovation discussions**!
